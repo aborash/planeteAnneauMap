@@ -143,7 +143,7 @@ let nbCaseLTropicCapricornExt = 168;
 // fonction drawn
 function draw( x_px_coinHautGaucheCanvas, y_px_coinHautGaucheCanvas)
 {
-console.log("===================== git");
+console.log("===================== git gat");
 	// Recup infos canvas et init
 	let mycanvas = document.getElementById("torusmap");
 	mycanvas.height=Haut_px+(marge_px*2);
