@@ -11,6 +11,6 @@ height:width;
 background-color : black;
 }</style>
 <canvas id="torusmap" title="ceci est un test"></canvas>
-<script src="https://rawgit.com/aborash/planeteAnneauMap/master/mapanneauscript.js" type="text/javascript"></script> 
+<script src="https://cdn.jsdelivr.net/gh/aborash/planeteAnneauMap@master/mapanneauscript.js" type="text/javascript"></script> 
 
 </nowiki>
